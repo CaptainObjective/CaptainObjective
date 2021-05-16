@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Marcin Woś
+👋 Hi, I’m Marcin Woś
 - 👀 I’m interested in Javascript, Typescript, React, Node.js, GraphQL
 - 🌱 I’m currently learning flutter
 - ⚡ Big fan of new technologies especially when they can bring value to software development process
